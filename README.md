@@ -1,5 +1,5 @@
 ![Header](https://github.com/Akash2001k/Akash2001k/blob/main/github-header-image%20(2).png)
-<h1 align="center">Hi 👋, I'm Akash Kaushik</h1>
+<h1 align="center">Hi 👋, I'm Akash  Kaushik</h1>
 <h3 align="center">Breaking the barriers of Technology, One algorithm at a time</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash2001k&label=Profile%20views&color=0e75b6&style=flat" alt="akash2001k" /> </p>
